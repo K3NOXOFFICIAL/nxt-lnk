@@ -2,19 +2,19 @@
 const bioData = [
     {
         name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        username: 'linktree.fur.ninja',
+        url: 'https://linktree.fur.ninja',
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: true,
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
+        description: 'Passionate Furry ❤️, Music Producer, Mix & Master Engineer with a love of Coding on AI. ',
         descShow: true,
-        subdesc: 'Use this template and deploy on vercel for free',
+        subdesc: '#Furries ❤ #AI #Producing #Coding #Mix&Master',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
         newProduct: true,
-        author: 'realvjy',
-        authorURL: 'https://twitter.com/realvjy',
+        author: 'Setsu',
+        authorURL: 'https://instagram.com/Setsuoff',
         footerText: 'made by'
     },
 ];
